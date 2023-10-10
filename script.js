@@ -8,7 +8,7 @@ let containerPassword = document.querySelector("#container-password");
 let copiado = document.querySelector("#copiado");
 console.log(copiado.innerHTML)
 
-let charset = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@%$*&';
+let charset = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@%$*&1234567890';
 let novaSenha = '';
 
 sizePassword.innerHTML = sliderElement.value;

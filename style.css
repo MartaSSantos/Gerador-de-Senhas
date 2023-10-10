@@ -125,6 +125,9 @@ p {
     opacity: 1;
 }
 
+/* Putting Responsiveness */
+/* Colocando responsividade */
+
 @media(max-width: 600px) {
     body {
         width: 70%;
@@ -135,8 +138,6 @@ p {
         max-width: 300px;
         margin-bottom: 15px;
     }
-
-
 
     .container-input span {
         font-size: 20px;
