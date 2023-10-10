@@ -31,6 +31,8 @@ function generatePassword(){
   novaSenha = pass;
 }
 
+// Function to display a message that the password has been successfully copied
+// Função para exibir uma mensagem informando que a senha foi copiada com sucesso
 function copyPassword(){
     alert(" SENHA COPIADA COM SUCESSO! 😀🎉")
   navigator.clipboard.writeText(novaSenha);
